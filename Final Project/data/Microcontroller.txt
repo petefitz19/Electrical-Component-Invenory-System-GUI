@@ -1,0 +1,12 @@
+ATMega4809
+Curiosity Nano 
+1
+ATSAMD21J18A
+Xplained Pro Breakout Board for the SAMD21 
+1
+Arduino Nano
+ 
+4
+Arduino UNO
+ 
+1

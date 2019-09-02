@@ -1,0 +1,3 @@
+5 Pin Midi DIN
+90 degree angle. Breadboard Compatible 
+12

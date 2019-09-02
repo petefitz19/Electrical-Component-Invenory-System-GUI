@@ -1,0 +1,12 @@
+Button
+Capacitor
+Diode
+Integrated Circuit
+LED
+MIDI Connector
+Microcontroller
+OLED
+Potentiometer
+Resistor
+Rotary Encoder
+Transistor
